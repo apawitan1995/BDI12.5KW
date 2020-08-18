@@ -2,7 +2,8 @@
  * Main.c
  *
  *  Created on: Mar 19, 2014 - 2016
- *      Author: Angga, Bima, Iqbal, Mukhlis
+ *      Author: Angga, Bima, Iqbal, Mukhlis, Arif
+
  */
 #include <stdio.h>
 #include <DAVE3.h>			//Declarations from DAVE3 Code Generation (includes SFR declaration)
