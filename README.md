@@ -1,5 +1,4 @@
 # BDI12.5KW
-Bi-Directional Inverter 12.5 Kilowatt
 
 BDI merupakan Bidirectional Inverter yang mempu beroperasi pada 2 arah, yaitu pada arah inject (posisitve power flow, arus ke arah output) dan serap (negative power flow, arus kea rah input). Pada proyek Microgrid Cipayung yang merupakan sinergi BUMN PLN dan PT Len ini, diinginkan BDI yang memiliki kapasitas total 75 KW dan mampu menghasilkan 3 fasa output. BDI ini harus bisa beroperasi pada mode grid-tied dan stand-alone.
 
